@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"name": "mf-front-backoffice",
+	"workspaces": [
+		"photom",
+		"sam-front"
+	],
+	"scripts": {}
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "rootDirs": ["src", "stories"],
+    "target": "es5",
+    "jsx": "react",
+    "declaration": true
+  }
+}
